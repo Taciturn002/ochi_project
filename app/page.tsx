@@ -8,12 +8,12 @@ import Fungame from '@/Components/Fungame'
 import Feature from '@/Components/Feature'
 import Cards from '@/Components/Cards'
 import Footer from '@/Components/Footer'
-import LocomotiveScroll from 'locomotive-scroll';
+
 
 function page() {
   
 
-  const locomotiveScroll = new LocomotiveScroll();
+ 
   
   return (
     <div>
