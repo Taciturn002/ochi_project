@@ -1,30 +1,31 @@
 'use client'
-import React from 'react'
-import Navbar from '@/Components/Navbar'
-import Landingpage from '@/Components/Landingpage'
-import Page2 from '@/Components/Page2'
-import About from '@/Components/About'
-import Fungame from '@/Components/Fungame'
-import Feature from '@/Components/Feature'
-import Cards from '@/Components/Cards'
-import Footer from '@/Components/Footer'
+
+import About from "@/Components/About"
+import Cards from "@/Components/Cards"
+import Feature from "@/Components/Feature"
+import Footer from "@/Components/Footer"
+import Fungame from "@/Components/Fungame"
+import Landingpage from "@/Components/Landingpage"
+import Navbar from "@/Components/Navbar"
+import Page2 from "@/Components/Page2"
+
+
+
 
 
 function page() {
-  
-
- 
-  
   return (
     <div>
-   <Navbar/>
-   <Landingpage/>
-   <Page2/>
-   <About/>
-   <Fungame/>
-   <Feature/>
-   <Cards/>
-   <Footer/>
+      <Navbar />
+      <Landingpage />
+      <Page2 />
+      <About />
+      <Feature />
+      <Fungame />
+      <Cards />
+      <Footer />
+ 
+   
     </div>
   )
 }
