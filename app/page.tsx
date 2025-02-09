@@ -8,11 +8,6 @@ import Fungame from "@/Components/Fungame"
 import Landingpage from "@/Components/Landingpage"
 import Navbar from "@/Components/Navbar"
 import Page2 from "@/Components/Page2"
-
-
-
-
-
 function page() {
   return (
     <div>
