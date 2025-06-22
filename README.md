@@ -4,18 +4,12 @@ A modern and visually impressive landing page inspired by a UI/UX agency. This p
 
 ## 🚀 Live Demo
 
-[Live Demo Link (Optional)](https://your-live-site-link.com)
+[Live Demo Link (Optional)](https://ochi-project-six.vercel.app/)
 
-## 📸 Preview
-
-![ochi preview](./screenshots/ochi-preview.png)  
-*Add a screenshot in the `screenshots/` folder to replace this placeholder.*
 
 ## 🧩 Features
 
 - Smooth scroll-based animations
-- Responsive layout across all devices
-- Dark aesthetic with bold typography
 - Reusable components (Header, Hero, Cards, Footer, etc.)
 - Designed using Tailwind CSS utility-first classes
 
